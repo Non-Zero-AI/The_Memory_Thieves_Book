@@ -62,7 +62,40 @@ themes/
 
 development/
   next-steps.md
+
+continuity/            # living story state (timeline, threads, character ledgers)
+  README.md
+  timeline.md
+  threads.md
+  world-state.md
+  character-state/
+    elias-voss.md
+
+manuscript/            # drafted chapters and scenes (created as you write)
+
+.claude/skills/        # creative skills that read and update the above
+  README.md
 ```
+
+## Creative Skills
+
+This repo ships a system of [Claude Code skills](.claude/skills/README.md) built to
+supercharge the writing while keeping continuity airtight — a story about memory
+can't afford to forget its own details.
+
+- **Create:** `character-builder`, `scene-builder`, `chapter-builder`
+- **Track:** `character-tracker`, `timeline-keeper`, `plot-tracker`
+- **Verify:** `continuity-check`, `story-dashboard`
+
+Open the repo in Claude Code and describe what you want to write, or invoke a skill
+directly (e.g. `/scene-builder`). Every skill reads and updates the shared
+continuity model in [`continuity/`](continuity/README.md) — separating what is
+**canon** (true in the world), what is **continuity** (where we are, and who knows
+what), and what is **manuscript** (actually written). The standout guard is
+**knowledge-gating**: a truth the reader learns in Book 3 must never leak into a
+character's head in Book 1.
+
+Start with `story-dashboard` to see where the project stands.
 
 ## Working Tagline
 
