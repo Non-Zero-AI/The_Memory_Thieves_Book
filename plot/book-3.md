@@ -36,8 +36,8 @@ is the engine of Book 4.
 - Both factions hunt him for the memory: Renn to take it, Thorne to protect or use it.
 - The descent through the Deep Echo to the Firstborn ruins — awe and dread; the living
   world of the dead.
-- **Midpoint / L7:** first true contact with the Field's hunger — the Predator is real,
-  vast, and worse than the myth. Terror recolors the Curators' dream.
+- **Midpoint / L7:** first true contact with the Predator itself — a real being in the
+  deep of the Field, vast and worse than the myth. Terror recolors the Curators' dream.
 - Low point: the memory nearly consumes Elias's own self; a companion pays for the
   descent (candidate cost: the Cartographer sacrifices a piece of itself to hold the
   road open). His immunity has a floor after all.

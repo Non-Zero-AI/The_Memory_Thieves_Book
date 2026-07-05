@@ -43,8 +43,8 @@ way that recolors the whole story so far.
 | # | The audience is led to believe | The correction | Set | Paid |
 |---|--------------------------------|----------------|-----|------|
 | 1 | The Archivists are villains (memory thieves for power) | They are a containment order protecting humanity (L3) | Book 1 | Book 1 finale |
-| 2 | The manipulation behind the factions is a human conspiracy (a cabal to expose) | The conspirators were themselves steered — the hand beneath is the Field's hunger (L6 → floor) | Book 2 | Book 4 |
-| 3 | The Silence was an extinction — the Firstborn were consumed | The Silence was a *choice* — a deliberate collective forgetting to escape absorption | Book 3 | Book 4 |
+| 2 | The manipulation behind the factions is a human conspiracy (a cabal to expose) | The conspirators were themselves steered — the hand beneath is the Predator's hunger (L6 → floor) | Book 2 | Book 4 |
+| 3 | The Silence was an extinction — the Firstborn were consumed | The Silence was a *choice* — a deliberate collective forgetting, a retreat to escape the Predator (not a defeat of it) | Book 3 | Book 4 |
 
 ## Character-Level Misdirection (quiet, throughout)
 

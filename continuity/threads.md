@@ -63,5 +63,5 @@ spine and deep truth in `plot/series-arc.md`.
 - **Book 1 — The Memory Thieves:** plotted ✅ · drafted 0%. Believer hunts Archivists → the containment reveal (L3).
 - **Book 2 — The Containment Lie:** plotted ✅ · drafted 0%. Atrocities + the rigged war (L6, as human conspiracy).
 - **Book 3 — The Firstborn Memory:** plotted ✅ · drafted 0%. The memory wakes (L8); the Silence witnessed and misread.
-- **Book 4 — The Silence Was Not Death:** plotted ✅ · drafted 0%. The reversals; the Field is alive; the floor.
-- **Book 5 — The Field Remembers Back:** plotted ✅ · drafted 0%. The choice and its cost. *Ending open vs. closed: DECISION PENDING.*
+- **Book 4 — The Silence Was Not Death:** plotted ✅ · drafted 0%. The reversals; the Silence was a retreat, the Predator a real being that can be fought; the floor.
+- **Book 5 — The Field Remembers Back:** plotted ✅ · drafted 0%. Humanity overcomes the Predator — the roused dead as weapon. *Ending open vs. closed (how total the victory): DECISION PENDING.*
