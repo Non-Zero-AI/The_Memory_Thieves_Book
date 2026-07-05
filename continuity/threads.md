@@ -31,11 +31,14 @@ unplanted payoff is a bug — see `continuity-check`.
 
 | ID | Setup (plant) | Planted in | Payoff (intended) | Pays off in | Status |
 |----|---------------|-----------|-------------------|-------------|--------|
-| SP-1 | Elias's visions: crystal forests, silent galactic ruins | *(childhood / Book 1)* | Revealed as the Firstborn memory | Book 3 | open |
-| SP-2 | Father's disappearance and "death" | *(Book 1)* | He was erased for discovering the manipulation | Book 2 | open |
-| SP-3 | Archivist "crimes" look monstrous | *(Book 1)* | Motive is containment, not power | Book 1 finale | open |
-| SP-4 | The Curators' irresistible promise of no death, no loss | *(Book 1)* | It is the exact mechanism that attracts the Predator | Book 2–4 | open |
+| SP-1 | Elias's visions: crystal forests, silent galactic ruins (Kellan's fingerprints) | *(childhood / Book 1)* | Revealed as the Firstborn memory | Book 3 | open |
+| SP-2 | Kellan Voss's disappearance and "death" | *(Book 1)* | He was erased for discovering the manipulation | Book 2 | open |
+| SP-3 | Archivist "crimes" look monstrous (Silas Thorne) | *(Book 1)* | Thorne reveals the motive is containment, not power | Book 1 finale | open |
+| SP-4 | The Curators' irresistible promise of no death, no loss (Renn, Mara) | *(Book 1)* | It is the exact mechanism that attracts the Predator | Book 2–4 | open |
 | SP-5 | The Abyssal Quiet — "the place where remembering ends" | *(Book 1–2)* | Its true nature / relation to the Silence | Book 4–5 | open |
+| SP-6 | Della Okafor's anomalous stolen memory (the inciting case) | *(Book 1, early)* | It exposes an Archivist containment op AND carries the Firstborn resonance | Book 1 → Book 3 | open |
+| SP-7 | The Cartographer treats Elias as a known "road" | *(Book 1)* | The entity recognizes the Firstborn memory in him | Book 3 | open |
+| SP-8 | Mara keeps no photos of Kellan; edited Elias's grief | *(Book 1)* | She chose to forget / helped hide what Kellan left | Book 2–3 | open |
 
 ---
 

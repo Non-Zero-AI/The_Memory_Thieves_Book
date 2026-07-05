@@ -45,7 +45,13 @@ plot/
   reveal-layers.md
 
 characters/
-  elias-voss.md
+  elias-voss.md          # protagonist
+  mara-sennet.md         # mother — Curator scientist
+  kellan-voss.md         # father — erased Archivist (the mystery)
+  cassia-renn.md         # Curator handler/mentor
+  silas-thorne.md        # Archivist antagonist → reluctant mentor
+  della-okafor.md        # the inciting case (memory-theft victim)
+  the-cartographer.md    # Echo Field entity / guide
 
 lore/
   cosmology.md

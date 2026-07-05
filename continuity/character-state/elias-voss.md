@@ -36,10 +36,12 @@ this. Do not let a `[HIDDEN]` truth leak early.
 
 | Character | Status | Notes |
 |-----------|--------|-------|
-| Father (erased Archivist) | Absent; memory altered | Elias's memories of him are edited/shielded. He believes his childhood was ideal |
-| Mother (Curator scientist) | Living influence | Shaped his belief in memory transcendence |
-| *(Primary Archivist hunter)* | Antagonist — TBD | To be created (`character-builder`) |
-| *(Echo entity guide/companion)* | TBD | To be created |
+| Kellan Voss (father) | Absent; memory altered | Erased Archivist. Elias's memories of him are edited; he believes his childhood was ideal. Unknowing vault of the hidden memory |
+| Mara Sennet (mother) | Living influence | Curator scientist; shaped his belief in memory transcendence; sealed away his grief for Kellan |
+| Cassia Renn | Handler / mentor; trusts her | Curator who assigns his hunts and steers him; he doesn't see the hand on the tiller |
+| Silas Thorne | Quarry → reluctant mentor | The Archivist he hunts; will crack his worldview at the Book 1 finale |
+| Della Okafor | Assigned case → the cost he can't ignore | Her anomalous stolen memory is the thread Elias pulls |
+| The Cartographer | Uneasy Echo guide (later) | Weaver entity drawn to the Firstborn resonance in him |
 
 ## Tells, Motifs & Symptoms
 
