@@ -39,6 +39,7 @@ unplanted payoff is a bug — see `continuity-check`.
 | SP-6 | Della Okafor's anomalous stolen memory (the inciting case) | *(Book 1, early)* | It exposes an Archivist containment op AND carries the Firstborn resonance | Book 1 → Book 3 | open |
 | SP-7 | The Cartographer treats Elias as a known "road" | *(Book 1)* | The entity recognizes the Firstborn memory in him | Book 3 | open |
 | SP-8 | Mara keeps no photos of Kellan; edited Elias's grief | *(Book 1)* | She chose to forget / helped hide what Kellan left | Book 2–3 | open |
+| SP-9 | Elias aligns nearly unaided and goes deep without hollowing — the cost that breaks others never touches him | *(Book 1)* | The Firstborn memory inoculates him against the fraying cost | Book 3 | open |
 
 ---
 

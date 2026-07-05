@@ -24,6 +24,7 @@ this. Do not let a `[HIDDEN]` truth leak early.
 - Memories imprint into the Echo Field; it can be accessed and manipulated
 - He is a Curator-aligned operative working against the Archivists
 - He has strange experiences — dreams that aren't his, unknown languages, impossible architecture — which the Curators frame as *evolution*
+- That the Field takes less out of him than it takes out of others — he aligns easily and doesn't tire or fray the way deep travelers do (he registers this as a fact about himself, not its cause)
 
 **Does NOT know yet (reveal-gated):**
 - `[HIDDEN: His father was an Archivist who was erased, not killed | reveal: Book 1–2 | layer: 6]`
@@ -31,6 +32,7 @@ this. Do not let a `[HIDDEN]` truth leak early.
 - `[HIDDEN: Both factions are being manipulated | reveal: Book 2 | layer: 6]`
 - `[HIDDEN: The Ancient Predator feeds on civilizations at memory-density | reveal: Book 2–4 | layer: 7]`
 - `[HIDDEN: He carries a Firstborn witness's memory of the Silence | reveal: Book 3 | layer: 8]`
+- `[HIDDEN: Why he aligns unaided and never pays the fraying cost — the Firstborn memory inoculates him | reveal: Book 3 | layer: 8]`
 
 ## Relationships
 
@@ -49,6 +51,8 @@ this. Do not let a `[HIDDEN]` truth leak early.
 - Languages he never learned; emotions attached to strangers
 - Sudden familiarity with impossible architecture
 - Recurring visions: **crystal forests** and **silent galactic ruins** (→ SP-1, the Firstborn memory)
+- Aligns with the Echo Field nearly **unaided** — needs far less Resonance tech than any operative should (→ SP-9)
+- **Does not hollow.** Deep travel frays others' memory; Elias pays nothing — an inoculation he doesn't know he carries (→ SP-9)
 
 ## Appearance Log
 

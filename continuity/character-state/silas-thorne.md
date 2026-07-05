@@ -22,7 +22,7 @@ start. The craft is keeping it *withheld*, not absent.
 - Specific, named guilt for particular erasures he has performed
 
 **Does NOT know yet (reveal-gated):**
-- `[HIDDEN: What exactly Elias carries | reveal: Book 3 | layer: 8]` — near Elias he senses *contamination* older than any human memory, without knowing what it is (seed)
+- `[HIDDEN: What exactly Elias carries | reveal: Book 3 | layer: 8]` — near Elias he senses *contamination* older than any human memory, without knowing what it is (seed). Part of what unnerves him: the boy goes deep and does not hollow, which — as no one knows better than Thorne — should not be possible
 - `[HIDDEN: Both factions are being manipulated | reveal: Book 2 | layer: 6]` — he feels a wrongness in the war he can't name
 - `[HIDDEN: The true nature of the Ancient Predator | reveal: Book 2–4 | layer: 7]` — he knows the dread, not the shape
 

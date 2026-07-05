@@ -162,6 +162,15 @@ erased so much — including, deliberately, parts of himself — that he is more
 than person. It is why the safest operators go shallow, and why going deep is a
 statement about how much a character is willing to lose.
 
+**The one exception.** A mind that carries a *native* resonance — memory of the kind
+the Firstborn were made of as a species, rather than the kind humans slowly accrete —
+appears to be **inoculated** against the fraying. Its own index is held stable by a
+structure older and deeper than anything ordinary travel could wear away. Such a
+traveler can go deep, and go often, and never hollow. In Book 1 this is a fact about
+exactly one person — **Elias** — observed by those around him and explained to no one.
+That he does not pay the cost is one of the first things that marks him as *wrong* to
+anyone who knows what the cost is. The reason stays gated (layer 8).
+
 ## The Mythic Shadow
 
 Humanity did not discover the Echo Field with this technology. It has been brushing
@@ -184,7 +193,8 @@ always dimly describing — the story's theme of *technology becoming mythology*
 
 - The **Firstborn's** native, tech-free mastery and its relation to what happened to
   them stays gated (layers 7–8).
-- **Elias's** unusual, near-unaided resonance is an early *tell*, not an explained
-  fact, in Book 1 (layer 8).
+- **Elias's** unusual, near-unaided resonance *and* his immunity to the fraying cost
+  are early *tells*, not explained facts, in Book 1 (layer 8). Both are the mechanical
+  face of the Firstborn memory he carries — an inoculation he does not know he has.
 - The implication that **dense memory itself attracts something** is a Book-1 unease
   only — felt in places like the Solarium, never named (layer 7).

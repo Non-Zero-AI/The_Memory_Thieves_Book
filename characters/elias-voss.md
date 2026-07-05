@@ -87,6 +87,23 @@ Archivists call them contamination.
 
 Curators call them evolution.
 
+## What the Memory Does to His Resonance
+
+The Firstborn memory is not only a secret he carries — it changes how he touches the
+Echo Field, in two ways that mark him as unlike anyone around him:
+
+- **He aligns unaided.** He can reach the Field with little or no Resonance
+  equipment, the way the Firstborn did as a species (`lore/resonance-technology.md`).
+- **He is immune to the cost.** Deep travel frays a traveler's own memory and slowly
+  hollows them — as it has hollowed Silas Thorne. Elias can go deep, and go often, and
+  pay nothing. The native structure inside him holds his own index stable, like an
+  inoculation against forgetting.
+
+In Book 1 both are **anomalies** — observed, unexplained, and quietly alarming to
+anyone who knows what deep travel is supposed to cost. The reason stays gated until
+the hidden memory surfaces (layer 8, Book 3). Elias himself only knows that the Field
+takes less out of him than it seems to take out of everyone else.
+
 ## Character Arc
 
 ### Beginning
