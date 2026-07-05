@@ -68,6 +68,10 @@ factions/
 themes/
   core-themes.md
 
+craft/                 # prose & craft principles (how it should read)
+  README.md
+  living-world.md
+
 development/
   next-steps.md
 
@@ -84,6 +88,7 @@ continuity/            # living story state (timeline, threads, character ledger
   timeline.md
   threads.md
   world-state.md
+  background-cast.md
   character-state/
     elias-voss.md
 

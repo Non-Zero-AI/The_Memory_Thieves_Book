@@ -25,6 +25,7 @@ Manuscript holds drafted chapters and scenes. Skills keep the three in sync.
 | `timeline.md` | Chronological spine + Echo Field associative time | `timeline-keeper` |
 | `threads.md` | Reveal layers, setup/payoff ledger, open mysteries | `plot-tracker` |
 | `world-state.md` | Locations, entities encountered, faction status | `scene-builder`, `timeline-keeper` |
+| `background-cast.md` | Recurring minor/incidental figures who keep the world alive | `scene-builder` |
 | `character-state/<slug>.md` | Per-character living ledger | `character-tracker`, `character-builder` |
 
 ## The one rule that matters most: knowledge-gating

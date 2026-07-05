@@ -41,6 +41,10 @@ considered done.
    persuasive? Flag any slide into cartoon villainy — that betrays the core idea.
 7. **Reveal integrity.** Does any reveal in the draft make a prior truth feel
    *smaller* (good) or *false* (a retcon to fix)?
+8. **World aliveness (NOTE).** Does the scene breathe, or is the plot happening on an
+   empty stage? Flag scenes with no incidental life beyond the cast, and check that
+   recurring background faces stay consistent with `continuity/background-cast.md`
+   (`craft/living-world.md`).
 
 ## Step 3 — Report
 
