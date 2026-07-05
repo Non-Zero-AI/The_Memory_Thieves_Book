@@ -57,8 +57,11 @@ Questions the story is deliberately holding open. Do not answer them by accident
 
 ## Per-Book Arc Progress
 
-- **Book 1 — The Memory Thieves:** Elias, Curator believer → discovers the Archivists are hiding humanity from something. *(0% drafted)*
-- **Book 2 — The Containment Lie:** *(not started)*
-- **Book 3 — The Firstborn Memory:** *(not started)*
-- **Book 4 — The Silence Was Not Death:** *(not started)*
-- **Book 5 — The Field Remembers Back:** *(not started)*
+Full plots and beat structures now live in `plot/book-1.md` … `plot/book-5.md`; the
+spine and deep truth in `plot/series-arc.md`.
+
+- **Book 1 — The Memory Thieves:** plotted ✅ · drafted 0%. Believer hunts Archivists → the containment reveal (L3).
+- **Book 2 — The Containment Lie:** plotted ✅ · drafted 0%. Atrocities + the rigged war (L6, as human conspiracy).
+- **Book 3 — The Firstborn Memory:** plotted ✅ · drafted 0%. The memory wakes (L8); the Silence witnessed and misread.
+- **Book 4 — The Silence Was Not Death:** plotted ✅ · drafted 0%. The reversals; the Field is alive; the floor.
+- **Book 5 — The Field Remembers Back:** plotted ✅ · drafted 0%. The choice and its cost. *Ending open vs. closed: DECISION PENDING.*

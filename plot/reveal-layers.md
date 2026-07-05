@@ -1,5 +1,9 @@
 # Reveal Layers
 
+The eight-layer ladder of the mystery. How the layers distribute across the books, the
+truth they bottom out into, and how each turn is handled are in `plot/series-arc.md`
+and `plot/misdirection.md`.
+
 ## Layer 1: Memory Has a Place
 
 Human memory has a physical-world component and an Echo Field component.

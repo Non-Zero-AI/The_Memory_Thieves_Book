@@ -40,9 +40,12 @@ This repository is the working story bible for the project. It is organized to t
 
 ```text
 plot/
+  README.md
   core-premise.md
-  series-arc.md
+  series-arc.md          # master spine + deep truth + open/closed ending decision
   reveal-layers.md
+  misdirection.md        # twist strategy — skillfully, not overly
+  book-1.md … book-5.md  # per-book plot, act structure, key scenes, twists
 
 characters/
   elias-voss.md          # protagonist
