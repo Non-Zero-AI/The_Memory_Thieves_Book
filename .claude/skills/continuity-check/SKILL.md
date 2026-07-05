@@ -42,9 +42,11 @@ considered done.
 7. **Reveal integrity.** Does any reveal in the draft make a prior truth feel
    *smaller* (good) or *false* (a retcon to fix)?
 8. **World aliveness (NOTE).** Does the scene breathe, or is the plot happening on an
-   empty stage? Flag scenes with no incidental life beyond the cast, and check that
-   recurring background faces stay consistent with `continuity/background-cast.md`
-   (`craft/living-world.md`).
+   empty stage? Distinguish *deliberate* isolation — an intimate two-hander, a
+   solitary Echo dive, a scene meant to feel empty — which is legitimate and often
+   vital, from a *populated* setting that reads as accidentally lifeless. Flag only the
+   latter. Also check recurring background faces stay consistent with
+   `continuity/background-cast.md` (`craft/living-world.md`).
 
 ## Step 3 — Report
 
