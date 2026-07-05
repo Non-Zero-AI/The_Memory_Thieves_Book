@@ -69,6 +69,14 @@ themes/
 development/
   next-steps.md
 
+locations/             # environment set-pieces (Physical + Echo Field layers)
+  README.md
+  voss-home.md
+  the-solarium.md
+  the-quiet-house.md
+  della-apartment.md
+  resonance-threshold.md
+
 continuity/            # living story state (timeline, threads, character ledgers)
   README.md
   timeline.md

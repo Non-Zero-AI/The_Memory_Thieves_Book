@@ -21,8 +21,20 @@ consistent each time it appears.
 | Abyssal Boundary | — | Edge where memory begins to dissolve | — | Borders the Abyssal Quiet |
 | Abyssal Quiet | — | "The place where remembering ends"; identity dissolves | — | Even Echo entities avoid it |
 
-*(Add concrete story locations — a specific park bench, church, safehouse — with
-both layers as scenes are written.)*
+### Story Locations (Book 1 core set)
+
+Built as full set-pieces in `locations/`. Rows are summaries; open the file for both
+layers in depth.
+
+| Location | Physical aspect | Echo Field aspect | File | Status |
+|----------|-----------------|-------------------|------|--------|
+| The Voss House | Modest, sunlit, curated family home | Cathedral of childhood joy with a scoured, father-shaped void | `locations/voss-home.md` | built · not yet in a scene |
+| The Solarium | Gleaming Curator research campus under glass | An unfinished sunrise of concentrated hope; density hums wrong beneath | `locations/the-solarium.md` | built · not yet in a scene |
+| The Quiet House | Forgettable Archivist containment site | Scoured negative space; a man-made cousin of the Abyssal Quiet | `locations/the-quiet-house.md` | built · not yet in a scene |
+| Della's Apartment | An oral historian's cluttered, listening home | Luminous with borrowed memory; one surgical, anomalous wound at center | `locations/della-apartment.md` | built · not yet in a scene |
+| The Resonance Threshold | The crossing rig and ritual (both factions) | The seam where the world unfolds and time turns associative | `locations/resonance-threshold.md` | built · liminal, reusable |
+
+*(Held for a later pass: Deep-Echo corridor, a significance showcase, the memory black market.)*
 
 ---
 
