@@ -25,9 +25,9 @@
 ## Needed Lore Files
 
 - ~~Resonance technology~~ ✅ `lore/resonance-technology.md`
-- Echo Field geography
-- The Deep Echo
-- The Abyssal Quiet
+- ~~Echo Field geography~~ ✅ `lore/echo-field-geography.md`
+- ~~The Deep Echo~~ ✅ covered in the geography (the Slow / Bedrock)
+- ~~The Abyssal Quiet~~ ✅ covered in the geography (Abyssal Boundary → Quiet)
 - Firstborn civilization
 - The Silence
 - The Ancient Predator
