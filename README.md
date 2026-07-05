@@ -40,9 +40,12 @@ This repository is the working story bible for the project. It is organized to t
 
 ```text
 plot/
+  README.md
   core-premise.md
-  series-arc.md
+  series-arc.md          # master spine + deep truth + open/closed ending decision
   reveal-layers.md
+  misdirection.md        # twist strategy — skillfully, not overly
+  book-1.md … book-5.md  # per-book plot, act structure, key scenes, twists
 
 characters/
   elias-voss.md          # protagonist
@@ -56,6 +59,7 @@ characters/
 lore/
   cosmology.md
   echo-field.md
+  echo-field-geography.md   # strata, roads, deep-time witness of matter
   memory-rules.md
   resonance-technology.md   # how the tech reaches/locates/manipulates the Echo Field
   species-and-entities.md
@@ -66,6 +70,10 @@ factions/
 
 themes/
   core-themes.md
+
+craft/                 # prose & craft principles (how it should read)
+  README.md
+  living-world.md
 
 development/
   next-steps.md
@@ -83,6 +91,7 @@ continuity/            # living story state (timeline, threads, character ledger
   timeline.md
   threads.md
   world-state.md
+  background-cast.md
   character-state/
     elias-voss.md
 

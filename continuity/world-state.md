@@ -14,12 +14,16 @@ Every location exists twice: a **Physical** layer and an **Echo Field** layer
 weighted by significance (`lore/echo-field.md`). Record both so a place looks
 consistent each time it appears.
 
-| Location | Physical aspect | Echo Field aspect | First appears | Notes |
-|----------|-----------------|-------------------|---------------|-------|
-| Surface Echo | — | Shallow layer; recent human memory and emotional imprints | — | Entry point for most travelers |
-| Deep Echo | — | Older, denser; non-human ruins and ancient entities | — | Firstborn memory-cities here |
-| Abyssal Boundary | — | Edge where memory begins to dissolve | — | Borders the Abyssal Quiet |
-| Abyssal Quiet | — | "The place where remembering ends"; identity dissolves | — | Even Echo entities avoid it |
+Full map and physics in `lore/echo-field-geography.md`. Strata run by *depth of
+witness* — older, slower, less human — not literal depth.
+
+| Stratum | Echo Field aspect | First appears | Notes |
+|---------|-------------------|---------------|-------|
+| The Quick (Surface Echo) | Living skin; recent human memory and fresh emotion; loud, legible | — | Entry point for most travelers; as far as most rigs reach |
+| The Steeping (Middle Echo) | Settled, thickened memory; where entities form (Keepers, Saints, Mourning Giants) | — | Rule 6 density-becomes-life zone |
+| The Slow (Deep Echo) | Geological/biological witness humming vast and low; Firstborn ruins | — | Nearly unreadable; Cartographer's roads reach here |
+| The Old Witness (Bedrock) | Oldest imprint — memory of matter itself; barely coherent | — | The floor of remembered time |
+| Abyssal Boundary → Abyssal Quiet | Memory thins, then dissolves; "the place where remembering ends" | — | Even entities avoid it; the suspected threat lies beneath (layer 7) |
 
 ### Story Locations (Book 1 core set)
 

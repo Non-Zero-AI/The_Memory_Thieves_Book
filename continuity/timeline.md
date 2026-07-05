@@ -53,4 +53,4 @@ traveler's path through the Echo Field stays consistent.
 - **Book 2 — The Containment Lie:** Archivist atrocities revealed; their doctrine is incomplete.
 - **Book 3 — The Firstborn Memory:** the hidden memory awakens; Elias reaches the Deep Echo.
 - **Book 4 — The Silence Was Not Death:** what really happened to the Firstborn.
-- **Book 5 — The Field Remembers Back:** the Echo Field may itself be alive.
+- **Book 5 — The Field Remembers Back:** humanity overcomes the Predator by rousing the memory of everything it ever ate.

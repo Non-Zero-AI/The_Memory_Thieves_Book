@@ -39,6 +39,7 @@ unplanted payoff is a bug — see `continuity-check`.
 | SP-6 | Della Okafor's anomalous stolen memory (the inciting case) | *(Book 1, early)* | It exposes an Archivist containment op AND carries the Firstborn resonance | Book 1 → Book 3 | open |
 | SP-7 | The Cartographer treats Elias as a known "road" | *(Book 1)* | The entity recognizes the Firstborn memory in him | Book 3 | open |
 | SP-8 | Mara keeps no photos of Kellan; edited Elias's grief | *(Book 1)* | She chose to forget / helped hide what Kellan left | Book 2–3 | open |
+| SP-9 | Elias aligns nearly unaided and goes deep without hollowing — the cost that breaks others never touches him | *(Book 1)* | The Firstborn memory inoculates him against the fraying cost | Book 3 | open |
 
 ---
 
@@ -49,15 +50,18 @@ Questions the story is deliberately holding open. Do not answer them by accident
 - What actually caused **the Silence**? (Extinction? Transformation? Consumption?)
 - What **is** the Ancient Predator — a monster, a process, a cosmic immune response?
 - **Who or what** is manipulating both factions? (Layer 6 names the fact, not the cause.)
-- Is the Echo Field itself alive, or part of a larger organism? (Book 5)
+- Can the Ancient Predator truly be *ended*, or only bound and delayed? (Book 5)
 - Series question: *Is forgetting a flaw of humanity, or the thing that keeps humanity alive?*
 
 ---
 
 ## Per-Book Arc Progress
 
-- **Book 1 — The Memory Thieves:** Elias, Curator believer → discovers the Archivists are hiding humanity from something. *(0% drafted)*
-- **Book 2 — The Containment Lie:** *(not started)*
-- **Book 3 — The Firstborn Memory:** *(not started)*
-- **Book 4 — The Silence Was Not Death:** *(not started)*
-- **Book 5 — The Field Remembers Back:** *(not started)*
+Full plots and beat structures now live in `plot/book-1.md` … `plot/book-5.md`; the
+spine and deep truth in `plot/series-arc.md`.
+
+- **Book 1 — The Memory Thieves:** plotted ✅ · drafted 0%. Believer hunts Archivists → the containment reveal (L3).
+- **Book 2 — The Containment Lie:** plotted ✅ · drafted 0%. Atrocities + the rigged war (L6, as human conspiracy).
+- **Book 3 — The Firstborn Memory:** plotted ✅ · drafted 0%. The memory wakes (L8); the Silence witnessed and misread.
+- **Book 4 — The Silence Was Not Death:** plotted ✅ · drafted 0%. The reversals; the Silence was a retreat, the Predator a real being that can be fought; the floor.
+- **Book 5 — The Field Remembers Back:** plotted ✅ · drafted 0%. Humanity overcomes the Predator — the roused dead as weapon. *Ending open vs. closed (how total the victory): DECISION PENDING.*

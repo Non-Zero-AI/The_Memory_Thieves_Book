@@ -56,6 +56,32 @@ A famous battlefield may appear as a continent-sized storm of fear and courage.
 
 A small family home may appear as a sprawling cathedral of birthdays, arguments, Christmas mornings, grief, and love.
 
+## The Substrate: Everything Remembers
+
+Memory does not only come from minds.
+
+Every thing — organic and inorganic — carries an imprint of what it has witnessed,
+written into its structure at the cellular and atomic level. A tree holds the
+centuries that passed beneath it. A stone holds the birth and extinction of species,
+the slow grind of ice, the day a martyr was killed against it. A wedding ring holds a
+marriage. Matter is the medium in which the Echo Field is recorded.
+
+This refines the rule that significance, not mass, is what matters — it does not
+overturn it:
+
+> **Matter is the medium. Significance is the amplitude.**
+
+Everything records; significance sets how *loudly* it rings. A mountain has witnessed
+almost everything and mostly *hums* — vast, slow, and low. A gallows where the hated
+were hanged is small and *screams*. Mass buys presence in the Physical world; in the
+Echo Field it buys almost nothing. Meaning is volume.
+
+So the Field's terrain is the layered witness of the physical world itself — which is
+why every place exists in both layers, and why any object dense with witness can
+serve as a doorway into its own remembered past. The full lay of that terrain — its
+strata, its roads, its deep and unreadable floors — is mapped in
+`lore/echo-field-geography.md`.
+
 ## How Transition Feels
 
 The world does not disappear.

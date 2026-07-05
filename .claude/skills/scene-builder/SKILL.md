@@ -40,6 +40,10 @@ strong defaults for the rest.
      not mass** — a bench heavy with a thousand first kisses, a battlefield as a
      continent-sized storm of fear. If the scene is Physical-only, still note what
      its Echo aspect *would* be; it may matter later.
+   - *The living world:* who and what is alive here beyond the cast — vendors,
+     laborers, passersby, overheard fragments, the texture of a place being used. The
+     world continues its own business (`craft/living-world.md`). Reach for a recurring
+     face from `continuity/background-cast.md` before inventing a new one.
 6. **Entry / exit state** — the POV's emotional and knowledge state on the way in,
    and what has changed by the way out. This is what you'll write back to trackers.
 7. **Conflict & stakes** — what is opposed here, and what does each side genuinely
@@ -67,6 +71,11 @@ Write in the story's register: sensory, layered, morally ambiguous. Let the Echo
 Field unfold rather than appear. Honor the theme that forgetting can be mercy and
 that every reveal makes the prior truth feel smaller, not false.
 
+**Keep the world alive** (`craft/living-world.md`): let ordinary life continue around
+the cast — incidental people, sensory labor, overheard fragments — in both layers, and
+lean on the ambient life to carry the memory theme where it can. Use restraint: a few
+strokes that make the scene land in a real place, never a catalogue that stalls it.
+
 Save to `manuscript/chapters/chNN-<slug>/sceneNN-<slug>.md` with a metadata header:
 
 ```
@@ -89,5 +98,7 @@ After drafting, write continuity back so the next scene stays consistent:
 - **`timeline.md`** — add the event to the spine (and the associative map if used).
 - **`threads.md`** — mark any setup planted or payoff delivered; advance reveal status.
 - **`world-state.md`** — add any new location (both layers) or first entity contact.
+- **`background-cast.md`** — register any recurring background face you introduced, or
+  note the reappearance of an existing one, so the world stays continuous.
 
 Then offer to run `continuity-check` on the new scene.

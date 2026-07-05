@@ -8,8 +8,14 @@
 4. Define the first major memory theft scene.
 5. Define the opening chapter hook.
 6. ~~Build the mechanics of Resonance technology.~~ ✅ `lore/resonance-technology.md`
-7. Develop the Firstborn witness memory.
-8. Map the first book's act structure.
+7. Develop the Firstborn witness memory. *(arc set in `plot/book-3.md`; the memory's content still to detail)*
+8. ~~Map the first book's act structure.~~ ✅ whole series plotted — `plot/series-arc.md`, `plot/book-1.md`…`book-5.md`, `plot/misdirection.md`
+
+## Open Decision
+
+- **Ending: open or closed?** The arc is built toward *closed with one aperture*
+  (recommended); the alternative is a fully *open* ending. It reshapes the Book 5
+  climax (and the tail of Book 4). See `plot/series-arc.md` and `plot/book-5.md`.
 
 ## Needed Character Files
 
@@ -25,9 +31,9 @@
 ## Needed Lore Files
 
 - ~~Resonance technology~~ ✅ `lore/resonance-technology.md`
-- Echo Field geography
-- The Deep Echo
-- The Abyssal Quiet
+- ~~Echo Field geography~~ ✅ `lore/echo-field-geography.md`
+- ~~The Deep Echo~~ ✅ covered in the geography (the Slow / Bedrock)
+- ~~The Abyssal Quiet~~ ✅ covered in the geography (Abyssal Boundary → Quiet)
 - Firstborn civilization
 - The Silence
 - The Ancient Predator
