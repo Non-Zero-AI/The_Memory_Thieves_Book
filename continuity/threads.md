@@ -50,7 +50,7 @@ Questions the story is deliberately holding open. Do not answer them by accident
 - What actually caused **the Silence**? (Extinction? Transformation? Consumption?)
 - What **is** the Ancient Predator — a monster, a process, a cosmic immune response?
 - **Who or what** is manipulating both factions? (Layer 6 names the fact, not the cause.)
-- Is the Echo Field itself alive, or part of a larger organism? (Book 5)
+- Can the Ancient Predator truly be *ended*, or only bound and delayed? (Book 5)
 - Series question: *Is forgetting a flaw of humanity, or the thing that keeps humanity alive?*
 
 ---
