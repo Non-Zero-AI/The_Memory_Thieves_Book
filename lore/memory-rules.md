@@ -29,6 +29,10 @@ The body does not fully cross.
 
 The consciousness aligns.
 
+The full mechanics of Resonance — how the tech tunes rather than powers a crossing,
+how memories are located and manipulated, and how changes in the Field reach back
+into the body — are detailed in `lore/resonance-technology.md`.
+
 ## Rule 4: Significance Determines Stability
 
 A memory becomes more stable when it is:

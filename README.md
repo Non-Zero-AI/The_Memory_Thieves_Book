@@ -57,6 +57,7 @@ lore/
   cosmology.md
   echo-field.md
   memory-rules.md
+  resonance-technology.md   # how the tech reaches/locates/manipulates the Echo Field
   species-and-entities.md
 
 factions/

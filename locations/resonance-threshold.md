@@ -5,11 +5,14 @@ world of meaning. Where the body stays behind and the world begins to unfold.*
 
 ## Physical Layer
 
-Wherever a crossing is made: a Resonance rig and a chair, a recreated
-memory-pattern, the practiced ritual of alignment (see `lore/memory-rules.md`, Rule
-3 — access requires resonance alignment). The Curators dress it in comfort and
-ceremony; the Archivists keep it spare and clinical. Either way the physical facts are
-the same and unremarkable — a still body, a monitored mind, a technician's quiet.
+Wherever a crossing is made: the apparatus of Resonance and the practiced ritual of
+alignment (full mechanics in `lore/resonance-technology.md`). The Curators dress it in
+comfort and ceremony — the immersive *cradles* of the Solarium; the Archivists keep it
+spare and clinical — the surgical *rigs* of the Quiet House; a field operative like
+Elias carries only a portable resonator and a strong personal anchor. Either way the
+physical facts are the same and unremarkable — a still body, a monitored mind, a
+technician's quiet. The key, the anchor, the tether are set; only then does the seam
+open.
 
 The threshold is not really the equipment, though. It is the seam the equipment lets
 you reach.
